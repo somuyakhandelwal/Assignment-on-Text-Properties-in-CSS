@@ -1,0 +1,18 @@
+/* Challenge 1: Set the text-align, text-transform, line-height properties of id 'html' */
+#html {
+  text-align: center; /* Center text */
+  text-transform: lowercase; /* Convert text to lowercase */
+  line-height: 1.5; /* Adjust line height */
+}
+
+/* Challenge 2: Set text-alignment of id 'css' to be justify and color red */
+#css {
+  text-align: justify; /* Justify text */
+  color: red; /* Set text color to red */
+}
+
+/* Challenge 3: Set the text color to green, text-transform to capitalize of id 'js' */
+#js {
+  color: green; /* Set text color to green */
+  text-transform: capitalize; /* Capitalize text */
+}
